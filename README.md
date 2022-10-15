@@ -1,10 +1,10 @@
-# textutiles
-django text analyser
+# Textutiles
+Django text analyser
 
 
-## details
+## Details
 
-this project takes input of text in any forms the following task on the text: 
+This project takes input of text in any forms the following task on the text: 
 
 
 (i)   Removes punctuations
